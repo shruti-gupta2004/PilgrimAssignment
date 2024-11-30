@@ -20,7 +20,7 @@ This project scrapes data from a website, processes it into a CSV file, and gene
 - Task Scheduler or cron details included.
 
 ## Assignment Link
-GitHub repository link 
+GitHub repository link : https://github.com/shruti-gupta2004/PilgrimAssignment
 
 
 
